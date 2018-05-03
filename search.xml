@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[help]]></title>
-    <url>%2F2018%2F04%2F29%2Fhelp%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[吾已往之不谏，知来者之可追]]></title>
+    <url>%2F2018%2F05%2F03%2F%E5%90%BE%E5%B7%B2%E5%BE%80%E4%B9%8B%E4%B8%8D%E8%B0%8F%EF%BC%8C%E7%9F%A5%E6%9D%A5%E8%80%85%E4%B9%8B%E5%8F%AF%E8%BF%BD%2F</url>
+    <content type="text"><![CDATA[这是一个快节奏的时代，一个知识碎片化的时代，也是一个浮躁的时代。 作为一个计算机业余爱好者，最近又在自学Python语言，“又”说明已经不是一两次了。。。 多少对读书还有那么一点爱好，所以深知需要通过阅读来填充内心的空虚和无知。然而却是风过无痕，读过就过了，从实用角度讲就是白读了。 于是就有了这个个人博客。主要是面向自己的一些学习记录整理，读书笔记思考，以及一些生活见闻。至于有人能够或有所得，那就是意料之外的事情了。 不想被时代裹挟，不想支离破碎，不想浑浑噩噩。 希望这不是一个FLAG。]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
   </entry>
 </search>
